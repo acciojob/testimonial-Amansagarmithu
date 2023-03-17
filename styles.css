@@ -4,12 +4,11 @@
 	padding: 20px;
 	font-size:10px;
 }
-.sel{
+.author{
 	background-color:white;
-	border:1px solid black;
 	margin:10px;
 	
 }
-.author{
+.sel{
 	text-align:right;
 }
