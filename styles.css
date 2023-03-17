@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+.main{
+	background-color: #f5f5f5;
+	padding: 40px;
+}
+.sel{
+	background-color:white;
+}
+.ital{
+	text-align:right;
+	
+}
+i{
+	display:block;
+}
